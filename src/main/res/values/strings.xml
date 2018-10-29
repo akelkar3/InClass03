@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="labelEmail">labelEmail</string>
+    <string name="labelDept">labelDept</string>
+    <string name="rbSIS">rbSIS</string>
+    <string name="rbCS">rbCS</string>
+    <string name="rbBio">rbBio</string>
+    <string name="rbOthers">rbOthers</string>
+    <string name="labelCurrentMood">labelCurrentMood</string>
+    <string name="buttonSubmit">buttonSubmit</string>
+    <string name="labelName">labelName</string>
+    <string name="textDisplay" />
+    <string name="textName" />
+    <string name="textEmail" />
+    <string name="textDep" />
+    <string name="textMood" />
+    <string name="editInfo" />
+    <string name="saveButton" />
+</resources>

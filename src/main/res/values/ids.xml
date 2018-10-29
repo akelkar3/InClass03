@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name" type="id" />
+    <item name="email" type="id" />
+    <item name="department" type="id" />
+    <item name="mood" type="id" />
+    <item name="imageButtonName" type="id" />
+    <item name="imageButtonEmail" type="id" />
+    <item name="imageButtonDep" type="id" />
+    <item name="imageButtonMood" type="id" />
+    <item name="editName" type="id" />
+    <item name="editEmail" type="id" />
+    <item name="savebutton" type="id" />
+</resources>
